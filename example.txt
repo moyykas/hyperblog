@@ -1,0 +1,3 @@
+
+Este es un ejemplom para empezar a utiizar Git, el sistema de control de versiones.
+Mi nombre es Moises Martinez, tengo una estatura de 175cm y vivo en la CDMX.
